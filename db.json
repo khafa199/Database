@@ -1,3 +1,10 @@
 {
-  "users": []
-}
+ "users": [
+    {
+      "phone": "6281380847521",
+      "username": "khafa",
+      "password": "khafaxd",
+      "pin": "123",
+      "key": "000"
+    },
+ ]
